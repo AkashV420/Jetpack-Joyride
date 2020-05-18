@@ -8,19 +8,15 @@ The game's objective is to pass hurdles and reach to Boss Enemy to kill him and 
 
 ## *About this game:*
 
-```
-* *This terminal based game is a basic implementation or prototype of the Origional Game* 
+* *This terminal based game is a basic implementation or prototype of the Origional Game *
 * *It includes physics components such as gravity*
 * *The number of lives and time are limited*
 * *You have to Defeat the boss Enemy at the end while collecting as many coins and doging from various Obstacles and Magnet on the way*
 * *You also have bullets to fight the Boss Enemy*
-```
-
 
 ## *Pre-requistics* :-
 
 - *Python3*
-
 
 ## *Installation* :-
 
