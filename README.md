@@ -9,11 +9,11 @@ The game's objective is to pass hurdles and reach to Boss Enemy to kill him and 
 ## *About this game:*
 
 ```
-1.This terminal based game is a basic implementation or prototype of the Origional Game 
-2.It includes physics components such as gravity
-3. The number of lives and time are limited
-4. You have to Defeat the boss Enemy at the end while collecting as many coins and      	doging from various Obstacles and Magnet on the way
-5. You also have bullets to fight the Boss Enemy
+* *This terminal based game is a basic implementation or prototype of the Origional Game* 
+* *It includes physics components such as gravity*
+* *The number of lives and time are limited*
+* *You have to Defeat the boss Enemy at the end while collecting as many coins and doging from various Obstacles and Magnet on the way*
+* *You also have bullets to fight the Boss Enemy*
 ```
 
 
@@ -24,9 +24,9 @@ The game's objective is to pass hurdles and reach to Boss Enemy to kill him and 
 
 ## *Installation* :-
 
-*sudo apt-get update*
-*sudo apt-get install python3*
-*pip3 install colorama*
+* *sudo apt-get update*
+* *sudo apt-get install python3*
+* *pip3 install colorama*
 
 
 ## Running the game:-
@@ -79,19 +79,11 @@ The game's objective is to pass hurdles and reach to Boss Enemy to kill him and 
 * Scores and lives of the Mandolarian as well as the Boss Enemy are shown at the Bottom of the screen
 * Score increases by 10 when a bullet hit the boss Enemy
 
-
-## *Power-Ups*
-
 ### *Speed boost:*
 
-
-    The speed of the game will increase upon taking this power-up. (@)
+* The speed of the game will increase upon taking this power-up. (@) *
 
 ### *Shield*
-
-    Mando will not be affected by the enemies and obstacles while shield is activated. It's charge left and charging time will be displayed on the top. The mandolarian will become in box when it is active. Shield cannot be activated while fighting to boss.
-​    
-
+* Mando will not be affected by the enemies and obstacles while shield is activated. It's charge left and charging time will be displayed on the top. The mandolarian will become in box when it is active. Shield cannot be activated while fighting to boss. *
 ## Color 
-
-    Color is Added to various Objects but not Background as It decreases the frame rates and makes game laggy
+* Color is Added to various Objects but not Background as It decreases the frame rates and makes game laggy.
